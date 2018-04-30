@@ -27,6 +27,12 @@ Ropsten Testnet [EXC Contract](https://ropsten.etherscan.io/address/0x9eb25baa2d
 - Contract Address  **0x9eb25BAa2d5DeD66E63F34d6043cC01758eE795A**
 - Contract Creator  **0x05fb6b5213ff11da3bb6369012c0d62522765ebf**
 
+### Contract Name:	EXC2
+
+Ropsten Testnet [EXC2 Contract](https://ropsten.etherscan.io/address/0x9de3ef3e91c70318098e7062dd46c9641afb36cc#readContract).
+- Contract Address  [**00x9de3ef3e91c70318098e7062dd46c9641afb36cc**](https://ropsten.etherscan.io/address/0x9de3ef3e91c70318098e7062dd46c9641afb36cc#code)
+- Contract Creator  **0x05fb6b5213ff11da3bb6369012c0d62522765ebf**
+
 ### Contract Name:	SIM
 
 Ropsten Testnet [SIM Contract](https://ropsten.etherscan.io/address/0x2277be05ac6b3bbcd9af1181005c7eb3bcb76b71#readContract).
