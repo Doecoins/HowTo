@@ -8,6 +8,9 @@ Ropsten Testnet [IRA Contract](https://ropsten.etherscan.io/address/0x29dd40bfcf
 Ropsten Testnet [IRA Contract](https://ropsten.etherscan.io/address/0x4efa451afad3ff71933e1485b0c81ca77849421f#readContract).
 - Contract Address  **0x4efa451afad3ff71933e1485b0c81ca77849421f** 
 
+Ropsten Testnet [IRA Contract](https://ropsten.etherscan.io/address/0x36638aa42889fbff6334ca2f8ac47ee5c27a4af8#readContract).
+- Contract Address  [**0x36638aa42889fbff6334ca2f8ac47ee5c27a4af8**](https://ropsten.etherscan.io/address/0x36638aa42889fbff6334ca2f8ac47ee5c27a4af8#code) 
+
 ### Contract Name:	MINT
 
 Ropsten Testnet [MINT Contract](https://ropsten.etherscan.io/address/0xada34d88297fb99b7864968c014f5dae8372afd1#readContract).
