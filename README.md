@@ -49,4 +49,4 @@ Ropsten Testnet [AIB Contract](https://ropsten.etherscan.io/address/0xb90b010813
 - Contract `Code`  [**0xb90b0108136a8f2d4cf41680c092b95eba8edacf**](https://ropsten.etherscan.io/address/0xb90b0108136a8f2d4cf41680c092b95eba8edacf#code)
 - Contract `Owner`  **0x05fb6b5213ff11da3bb6369012c0d62522765ebf**
 
-[Latest Tokens for this project](/LATESTTOKENS.md)
+[Latest Tokens for this project](/contracts/README.md)
