@@ -1,6 +1,6 @@
 pragma solidity ^0.4.11;
 // ----------------------------------------------------------------------------
-// 'MINT' 'Example You Token' token contract
+// 'MINT' 'Example Mint Token' token contract
 //
 // Symbol      : MINT
 // Name        : MINT a (R)evolution in Wealth Creation
