@@ -34,3 +34,9 @@ Ropsten Testnet [SIM Contract](https://ropsten.etherscan.io/address/0x684809c0f3
 - Contract Code  [**0x684809c0f30418637c063aa9e1594acec9e755cd**](https://ropsten.etherscan.io/address/0x684809c0f30418637c063aa9e1594acec9e755cd#code)
 - Contract Creator  **0x05fb6b5213ff11da3bb6369012c0d62522765ebf**
 
+### Contract Name:	AIB
+
+Ropsten Testnet [AIB Contract](https://ropsten.etherscan.io/address/0xb90b0108136a8f2d4cf41680c092b95eba8edacf#readContract).
+- Contract Code  [**0xb90b0108136a8f2d4cf41680c092b95eba8edacf**](https://ropsten.etherscan.io/address/0xb90b0108136a8f2d4cf41680c092b95eba8edacf#code)
+- Contract Creator  **0x05fb6b5213ff11da3bb6369012c0d62522765ebf**
+
